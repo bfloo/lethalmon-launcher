@@ -44,7 +44,7 @@ All official releases of Lethalmon are available in this repository. Each releas
 
 If you encounter any bugs or issues:
 
-1. Check the [Known Issues](https://github.com/TeamRenaissance/lethalmon-releases/issues) page to see if it's already reported
+1. Check the [Known Issues](https://github.com/bfloo/lethalmon-releases/issues) page to see if it's already reported
 2. If not, create a new issue with detailed information:
    - Your operating system and version
    - Game version
