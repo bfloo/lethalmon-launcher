@@ -8,7 +8,7 @@
   
 [![Discord](https://img.shields.io/discord/123456789?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.com/invite/6UTHaANCEz/)
 [![Twitter](https://img.shields.io/badge/Twitter-@lethalmon-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/lethalmon)
-[![Instagram](https://img.shields.io/badge/Instagram-@lethalmon.fr-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/lethalmon.flo/#)
+[![Instagram](https://img.shields.io/badge/Instagram-@lethalmon.flo-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/lethalmon.flo/#)
 [![TikTok](https://img.shields.io/badge/TikTok-@lethalmon.flo-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@lethalmon.flo)
 
 </div>
