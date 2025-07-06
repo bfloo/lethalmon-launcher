@@ -29,7 +29,7 @@ All official releases of Lethalmon are available in this repository. Each releas
 
 ## How to Download
 
-1. Go to the [Releases](https://github.com/TeamRenaissance/lethalmon-releases/releases) section
+1. Go to the [Releases](https://github.com/bfloo/lethalmon-releases/releases) section
 2. Find the latest release (or a specific version you're looking for)
 3. Download the appropriate package for your operating system
 4. Follow the installation instructions included in the release notes
